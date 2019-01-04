@@ -4149,7 +4149,7 @@ label bull:
 
     "You look back up and are shocked to see the bull has vanished!"
     "God has accepted your sacrifice! You are forgiven of your transgressions and God has blessed you!"
-    "Congratulations!!"
+    "Congratulations!"
 
     scene intro000
     with fade

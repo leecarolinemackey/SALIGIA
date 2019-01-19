@@ -5,9 +5,14 @@ label start:
 
     scene intro000
 
-    "You’ve been walking for hours with only the most cursory directions from those who’d made the trip before you. You keep walking."
-
-    "But you’re definitely here now. The air crackles with electricity. You gasp."
+    "You’ve been walking for hours with only the most cursory directions from those who’d made the trip before you."
+    "You've been waiting for years to make this journey. Today you will make the sacrifice to the Lord on behalf of your family."
+    "Your brothers say they've done it all before and they're not jealous. But they're totally jealous."
+    "You wonder if you will be lucky enough to recieve a vision, not everyone gets to."
+    "If you do, the messages within might guide your family to greatness over dozens of generations."
+    "Or spell out your downfall. Either way it's a very big deal."
+    "You've been walking forever...you wipe your brow and notice that your whole body is vibrating."
+    "You’re definitely here now. The air crackles with electricity. You gasp."
 
     "You’re in the presence of God. You look down."
 
@@ -106,6 +111,11 @@ label seeds:
 
     "Your last sight, distorted by your tears, is the snakes gliding toward you through and over the mounds of trash."
     "Your last thought, that God has abandoned you. You black out."
+
+    scene title
+    with fade
+
+    "..."
 
     scene sloth001
     with fade
@@ -816,6 +826,11 @@ label bread:
 
     "How long have you been holding your breath? You try to breathe, but it’s like sucking air through a coffee straw. Why does the world have to be like this? You black out."
 
+    scene title
+    with fade
+
+    "..."
+
     scene wrath001
     with fade
 
@@ -1393,6 +1408,11 @@ label oil:
     with fade
 
     "You vomit and vomit until there’s no bile left. You can’t stop dry heaving. You fall the ground, your body stressed beyond its capacity by the spasms. You black out."
+
+    scene title
+    with fade
+
+    "..."
 
     scene gluttony001
     with fade
@@ -2083,6 +2103,11 @@ label wine:
     "The wolf opens its mouth and emits a weak squeak. Every single one of its teeth rocket out of the wolf’s mouth. The fuck does this metaphor mean?"
     "One tooth hits you square between the eyes and knocks you out."
 
+    scene title
+    with fade
+
+    "..."
+
     scene envy001
     with fade
 
@@ -2676,6 +2701,11 @@ label dove:
 
     "It vomits fish heads alllll over you. The smell is repulsive. Actually, it’s making you light headed. Actually...it’s..sort of...like...you’re blacking out."
 
+    scene title
+    with fade
+
+    "..."
+
     scene intro000
     with fade
 
@@ -3203,6 +3233,11 @@ label goat:
     "Warm liquid rushes down your neck. It fills your ears and dampens the sound, which confuses you."
     "Where’s all this hot sticky water coming from? You black out."
 
+    scene title
+    with fade
+
+    "..."
+
     scene greed001
     with fade
 
@@ -3706,6 +3741,11 @@ label lamb:
     "You grope blindly for the feel of a warm flank but are only met with a tangle of weeds."
     "Where could it have gone? You cry out to it and water fills your lungs. You black out."
 
+    scene title
+    with fade
+
+    "..."
+
     scene pride001
     with fade
 
@@ -4155,6 +4195,7 @@ label bull:
     with fade
 
     "You will surely defeat any foreign power that you wage war on in the next year or so. It’s so good to be righteous."
+    "You decide to take a power nap before heading home."
 
     jump theend
 
@@ -4163,7 +4204,31 @@ label theend:
     scene intro000
     with fade
 
-    "THE END"
+    "You're waking up now, you feel heavy on the ground and your head is swimming."
+    "Why has God shown you this vision? Why does He have to speak in such obtuse metaphor?"
+    "You just wanted to make a sacrifice and be blessed and now this. Jesus, it's all so maudlin."
+    "You open your eyes."
+
+    scene end01
+    with fade
+
+    "The landscape is barren now and a deep, angry crack shakes the earth as it opens."
+
+    scene end02
+    with fade
+
+    "The mouth of hell! Will you escape it!?"
+
+    scene end03
+    with fade
+
+    "Not this time! The monster opens wide and eats you, your is flung deep into hell."
+    "Even after all your work in contemplation and rejection of sin, you still don't seem to measure up."
+    "Don't take it too personally, none of us is really ever deserving of God's grace."
+    "Oh well, at least it's the end."
+
+
+
 
 
 

@@ -3656,14 +3656,14 @@ label blindfold:
 
 label lamb:
 
-    scene intro041
+    scene intro014
     with fade
 
     "You try not to be prideful as you check over this lamb for the hundredth time."
     "Not a single blemish. You had never bred to perfect an animal before."
     "Your father and your brothers have, but not you. What an honor it is to serve God! Kill it!"
 
-    scene intro042
+    scene intro015
     with fade
 
     "The blood spurts out and stains its once perfect fleece."
